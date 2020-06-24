@@ -1,1 +1,2 @@
 # Big-Cities-Health
+it illustrates health status of 26 of the nation’s largest and most urban cities as captured by 34 Health(and six demographic-related) Indicators. These indicators represent some of the leading causes of morbidity and mortality in the United States, and leading priorities of National, State, and Local Health Agencies. Public health data were captured in 9 categories: HIV/AIDS, Cancer, Nutrition/ Physical Activity/ Obesity, Food Safety, Infection Diseases, Maternal, and Child Health, Tobacco, Injury/Violence, and Health/ Substance Abuse
